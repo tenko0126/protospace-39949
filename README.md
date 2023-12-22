@@ -65,4 +65,4 @@ Things you may want to cover:
 
 ### Association
 - belong_to :users
-- belong_to :comments
+- belong_to :prototypes
